@@ -10,7 +10,7 @@ body {
 .container {
     width: 1440px;
     height: 3818px;
-    background: #fff;
+    background: #ffffff;
     margin: 0 auto;
 }
 .header {
@@ -123,6 +123,7 @@ body {
     border-radius: 10px;
     z-index:1;
     align-items: center;
+    
 }
 .email-box .wrapper{
     display: flex;
