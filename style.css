@@ -123,6 +123,7 @@ body {
     border-radius: 10px;
     z-index:1;
     align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     
 }
 .email-box .wrapper{
@@ -169,10 +170,17 @@ body {
 }
 .photos img:nth-child(1) {
     align-self: flex-end;
+    margin-left: 80px;
 }
 .photos img:nth-child(2) {
     align-self: flex-start;
 }
 .photos img:nth-child(3) {
     margin-top: 215px;
+}
+.dot{
+    width: 91px;
+    height: 101px;
+    align-items: center;
+    top:603px;
 }
